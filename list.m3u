@@ -57,120 +57,120 @@ http://www.bragatop.com:8080/live/1111/1111/15947.ts
 #EXTINF:0 group-title="(_) _No Group",PT1 NICKELODEON | SD (_)
 http://www.bragatop.com:8080/live/1111/1111/15941.ts
 
-#EXTINF:-1,B: Cartoon Network^M
-http://www.bragatop.com:8080/live/008/008/15582.ts^M
-#EXTINF:-1,B: Cartoon Network HD^M
-http://www.bragatop.com:8080/live/008/008/15581.ts^M
-#EXTINF:-1,B: Cinemax^M
-http://www.bragatop.com:8080/live/008/008/15563.ts^M
-#EXTINF:-1,B: Combate^M
-http://www.bragatop.com:8080/live/008/008/15488.ts^M
-#EXTINF:-1,B: Combate HD^M
-http://www.bragatop.com:8080/live/008/008/15487.ts^M
-#EXTINF:-1,B: Comedy Central^M
-http://www.bragatop.com:8080/live/008/008/15562.ts^M
-#EXTINF:-1,B: Discovery Channel^M
-http://www.bragatop.com:8080/live/008/008/15561.ts^M
-#EXTINF:-1,B: Discovery Channel HD^M
-http://www.bragatop.com:8080/live/008/008/15560.ts^M
-#EXTINF:-1,B: Discovery Home & Health^M
-http://www.bragatop.com:8080/live/008/008/15559.ts^M
-#EXTINF:-1,B: Discovery Home & Health HD^M
-http://www.bragatop.com:8080/live/008/008/15558.ts^M
-#EXTINF:-1,B: Discovery Kids^M
-http://www.bragatop.com:8080/live/008/008/15580.ts^M
-#EXTINF:-1,B: Discovery Theater HD^M
-http://www.bragatop.com:8080/live/008/008/15557.ts^M
-#EXTINF:-1,B: Discovery Turbo^M
-http://www.bragatop.com:8080/live/008/008/15556.ts^M
-#EXTINF:-1,B: Discovery Turbo HD^M
-http://www.bragatop.com:8080/live/008/008/15555.ts^M
-#EXTINF:-1,B: Discovery World HD^M
-http://www.bragatop.com:8080/live/008/008/15554.ts^M
-#EXTINF:-1,B: Disney Channel^M
-http://www.bragatop.com:8080/live/008/008/15579.ts^M
-#EXTINF:-1,B: Disney Junior^M
-http://www.bragatop.com:8080/live/008/008/15578.ts^M
-#EXTINF:-1,B: Disney XD^M
-http://www.bragatop.com:8080/live/008/008/15577.ts^M
-#EXTINF:-1,B: E!^M
-http://www.bragatop.com:8080/live/008/008/15553.ts^M
-#EXTINF:-1,B: ESPN^M
-http://www.bragatop.com:8080/live/008/008/15486.ts^M
-#EXTINF:-1,B: ESPN Brasil^M
-http://www.bragatop.com:8080/live/008/008/15485.ts^M
-#EXTINF:-1,B: ESPN Brasil HD^M
-http://www.bragatop.com:8080/live/008/008/15484.ts^M
-#EXTINF:-1,B: ESPN HD^M
-http://www.bragatop.com:8080/live/008/008/15483.ts^M
-#EXTINF:-1,B: Fish TV^M
-http://www.bragatop.com:8080/live/008/008/15482.ts^M
-#EXTINF:-1,B: FOX^M
-http://www.bragatop.com:8080/live/008/008/15529.ts^M
-#EXTINF:-1,B: FOX HD^M
-http://www.bragatop.com:8080/live/008/008/15528.ts^M
-#EXTINF:-1,B: FOX Life HD^M
-http://www.bragatop.com:8080/live/008/008/15527.ts^M
-#EXTINF:-1,B: FOX Premium 1 HD^M
-http://www.bragatop.com:8080/live/008/008/15481.ts^M
-#EXTINF:-1,B: FOX Premium 2 HD^M
-http://www.bragatop.com:8080/live/008/008/15480.ts^M
-#EXTINF:-1,B: Fox Sport HD^M
-http://www.bragatop.com:8080/live/008/008/15479.ts^M
+#EXTINF:-1,B: Cartoon Network
+http://www.bragatop.com:8080/live/008/008/15582.ts
+#EXTINF:-1,B: Cartoon Network HD
+http://www.bragatop.com:8080/live/008/008/15581.ts
+#EXTINF:-1,B: Cinemax
+http://www.bragatop.com:8080/live/008/008/15563.ts
+#EXTINF:-1,B: Combate
+http://www.bragatop.com:8080/live/008/008/15488.ts
+#EXTINF:-1,B: Combate HD
+http://www.bragatop.com:8080/live/008/008/15487.ts
+#EXTINF:-1,B: Comedy Central
+http://www.bragatop.com:8080/live/008/008/15562.ts
+#EXTINF:-1,B: Discovery Channel
+http://www.bragatop.com:8080/live/008/008/15561.ts
+#EXTINF:-1,B: Discovery Channel HD
+http://www.bragatop.com:8080/live/008/008/15560.ts
+#EXTINF:-1,B: Discovery Home & Health
+http://www.bragatop.com:8080/live/008/008/15559.ts
+#EXTINF:-1,B: Discovery Home & Health HD
+http://www.bragatop.com:8080/live/008/008/15558.ts
+#EXTINF:-1,B: Discovery Kids
+http://www.bragatop.com:8080/live/008/008/15580.ts
+#EXTINF:-1,B: Discovery Theater HD
+http://www.bragatop.com:8080/live/008/008/15557.ts
+#EXTINF:-1,B: Discovery Turbo
+http://www.bragatop.com:8080/live/008/008/15556.ts
+#EXTINF:-1,B: Discovery Turbo HD
+http://www.bragatop.com:8080/live/008/008/15555.ts
+#EXTINF:-1,B: Discovery World HD
+http://www.bragatop.com:8080/live/008/008/15554.ts
+#EXTINF:-1,B: Disney Channel
+http://www.bragatop.com:8080/live/008/008/15579.ts
+#EXTINF:-1,B: Disney Junior
+http://www.bragatop.com:8080/live/008/008/15578.ts
+#EXTINF:-1,B: Disney XD
+http://www.bragatop.com:8080/live/008/008/15577.ts
+#EXTINF:-1,B: E!
+http://www.bragatop.com:8080/live/008/008/15553.ts
+#EXTINF:-1,B: ESPN
+http://www.bragatop.com:8080/live/008/008/15486.ts
+#EXTINF:-1,B: ESPN Brasil
+http://www.bragatop.com:8080/live/008/008/15485.ts
+#EXTINF:-1,B: ESPN Brasil HD
+http://www.bragatop.com:8080/live/008/008/15484.ts
+#EXTINF:-1,B: ESPN HD
+http://www.bragatop.com:8080/live/008/008/15483.ts
+#EXTINF:-1,B: Fish TV
+http://www.bragatop.com:8080/live/008/008/15482.ts
+#EXTINF:-1,B: FOX
+http://www.bragatop.com:8080/live/008/008/15529.ts
+#EXTINF:-1,B: FOX HD
+http://www.bragatop.com:8080/live/008/008/15528.ts
+#EXTINF:-1,B: FOX Life HD
+http://www.bragatop.com:8080/live/008/008/15527.ts
+#EXTINF:-1,B: FOX Premium 1 HD
+http://www.bragatop.com:8080/live/008/008/15481.ts
+#EXTINF:-1,B: FOX Premium 2 HD
+http://www.bragatop.com:8080/live/008/008/15480.ts
+#EXTINF:-1,B: Fox Sport HD
+http://www.bragatop.com:8080/live/008/008/15479.ts
 
-#EXTINF:-1,USA: ABC HD^M
-http://www.bragatop.com:8080/live/008/008/11968.ts^M
-#EXTINF:-1,USA: ABC NEWS HD^M
-http://www.bragatop.com:8080/live/008/008/11967.ts^M
-#EXTINF:-1,USA: AETV HD^M
-http://www.bragatop.com:8080/live/008/008/11966.ts^M
-#EXTINF:-1,USA: AMC HD^M
-http://www.bragatop.com:8080/live/008/008/11965.ts^M
-#EXTINF:-1,USA: BeIN Sports US HD^M
-http://www.bragatop.com:8080/live/008/008/11964.ts^M
-#EXTINF:-1,USA: BRAVO HD^M
-http://www.bragatop.com:8080/live/008/008/11963.ts^M
-#EXTINF:-1,USA: CBS HD^M
-http://www.bragatop.com:8080/live/008/008/11962.ts^M
-#EXTINF:-1,USA: CN HD^M
-http://www.bragatop.com:8080/live/008/008/11961.ts^M
-#EXTINF:-1,USA: CNBC HD^M
-http://www.bragatop.com:8080/live/008/008/11960.ts^M
-#EXTINF:-1,USA: CNN HD^M
-http://www.bragatop.com:8080/live/008/008/11959.ts^M
-#EXTINF:-1,USA: DISCOVERY HD^M
-http://www.bragatop.com:8080/live/008/008/11958.ts^M
-#EXTINF:-1,USA: DIY Network HD^M
-http://www.bragatop.com:8080/live/008/008/11957.ts^M
-#EXTINF:-1,USA: E! ENTERTAINMENT-US^M
-http://www.bragatop.com:8080/live/008/008/11956.ts^M
-#EXTINF:-1,USA: ESPN 1 HD^M
-http://www.bragatop.com:8080/live/008/008/11955.ts^M
-#EXTINF:-1,USA: ESPN HD^M
-http://www.bragatop.com:8080/live/008/008/11954.ts^M
-#EXTINF:-1,USA: FOX HD^M
-http://www.bragatop.com:8080/live/008/008/11953.ts^M
-#EXTINF:-1,USA: FOX NEWS HD^M
-http://www.bragatop.com:8080/live/008/008/11952.ts^M
-#EXTINF:-1,USA: FX HD^M
-http://www.bragatop.com:8080/live/008/008/11951.ts^M
-#EXTINF:-1,USA: LIFETIME HD^M
-http://www.bragatop.com:8080/live/008/008/11950.ts^M
-#EXTINF:-1,USA: NBC HD^M
-http://www.bragatop.com:8080/live/008/008/11949.ts^M
-#EXTINF:-1,USA: NICK HD^M
-http://www.bragatop.com:8080/live/008/008/11948.ts^M
-#EXTINF:-1,USA: PBS HD^M
-http://www.bragatop.com:8080/live/008/008/11947.ts^M
-#EXTINF:-1,USA: RT AMERICA^M
-http://www.bragatop.com:8080/live/008/008/11946.ts^M
-#EXTINF:-1,USA: Showtime Next HD^M
-http://www.bragatop.com:8080/live/008/008/11945.ts^M
-#EXTINF:-1,USA: SHOWTIME SHOWCASE^M
-http://www.bragatop.com:8080/live/008/008/11944.ts^M
-#EXTINF:-1,USA: SPIKE HD^M
-http://www.bragatop.com:8080/live/008/008/11943.ts^M
-#EXTINF:-1,USA: SYFY HD^M
-http://www.bragatop.com:8080/live/008/008/11942.ts^M
-#EXTINF:-1,USA: TBS HD^M
-http://www.bragatop.com:8080/live/008/008/11941.ts^M
+#EXTINF:-1,USA: ABC HD
+http://www.bragatop.com:8080/live/008/008/11968.ts
+#EXTINF:-1,USA: ABC NEWS HD
+http://www.bragatop.com:8080/live/008/008/11967.ts
+#EXTINF:-1,USA: AETV HD
+http://www.bragatop.com:8080/live/008/008/11966.ts
+#EXTINF:-1,USA: AMC HD
+http://www.bragatop.com:8080/live/008/008/11965.ts
+#EXTINF:-1,USA: BeIN Sports US HD
+http://www.bragatop.com:8080/live/008/008/11964.ts
+#EXTINF:-1,USA: BRAVO HD
+http://www.bragatop.com:8080/live/008/008/11963.ts
+#EXTINF:-1,USA: CBS HD
+http://www.bragatop.com:8080/live/008/008/11962.ts
+#EXTINF:-1,USA: CN HD
+http://www.bragatop.com:8080/live/008/008/11961.ts
+#EXTINF:-1,USA: CNBC HD
+http://www.bragatop.com:8080/live/008/008/11960.ts
+#EXTINF:-1,USA: CNN HD
+http://www.bragatop.com:8080/live/008/008/11959.ts
+#EXTINF:-1,USA: DISCOVERY HD
+http://www.bragatop.com:8080/live/008/008/11958.ts
+#EXTINF:-1,USA: DIY Network HD
+http://www.bragatop.com:8080/live/008/008/11957.ts
+#EXTINF:-1,USA: E! ENTERTAINMENT-US
+http://www.bragatop.com:8080/live/008/008/11956.ts
+#EXTINF:-1,USA: ESPN 1 HD
+http://www.bragatop.com:8080/live/008/008/11955.ts
+#EXTINF:-1,USA: ESPN HD
+http://www.bragatop.com:8080/live/008/008/11954.ts
+#EXTINF:-1,USA: FOX HD
+http://www.bragatop.com:8080/live/008/008/11953.ts
+#EXTINF:-1,USA: FOX NEWS HD
+http://www.bragatop.com:8080/live/008/008/11952.ts
+#EXTINF:-1,USA: FX HD
+http://www.bragatop.com:8080/live/008/008/11951.ts
+#EXTINF:-1,USA: LIFETIME HD
+http://www.bragatop.com:8080/live/008/008/11950.ts
+#EXTINF:-1,USA: NBC HD
+http://www.bragatop.com:8080/live/008/008/11949.ts
+#EXTINF:-1,USA: NICK HD
+http://www.bragatop.com:8080/live/008/008/11948.ts
+#EXTINF:-1,USA: PBS HD
+http://www.bragatop.com:8080/live/008/008/11947.ts
+#EXTINF:-1,USA: RT AMERICA
+http://www.bragatop.com:8080/live/008/008/11946.ts
+#EXTINF:-1,USA: Showtime Next HD
+http://www.bragatop.com:8080/live/008/008/11945.ts
+#EXTINF:-1,USA: SHOWTIME SHOWCASE
+http://www.bragatop.com:8080/live/008/008/11944.ts
+#EXTINF:-1,USA: SPIKE HD
+http://www.bragatop.com:8080/live/008/008/11943.ts
+#EXTINF:-1,USA: SYFY HD
+http://www.bragatop.com:8080/live/008/008/11942.ts
+#EXTINF:-1,USA: TBS HD
+http://www.bragatop.com:8080/live/008/008/11941.ts
