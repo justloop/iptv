@@ -57,120 +57,967 @@ http://www.bragatop.com:8080/live/1111/1111/15947.ts
 #EXTINF:0 group-title="(_) _No Group",PT1 NICKELODEON | SD (_)
 http://www.bragatop.com:8080/live/1111/1111/15941.ts
 
-#EXTINF:-1,B: Cartoon Network
-http://www.bragatop.com:8080/live/008/008/15582.ts
-#EXTINF:-1,B: Cartoon Network HD
-http://www.bragatop.com:8080/live/008/008/15581.ts
-#EXTINF:-1,B: Cinemax
-http://www.bragatop.com:8080/live/008/008/15563.ts
-#EXTINF:-1,B: Combate
-http://www.bragatop.com:8080/live/008/008/15488.ts
-#EXTINF:-1,B: Combate HD
-http://www.bragatop.com:8080/live/008/008/15487.ts
-#EXTINF:-1,B: Comedy Central
-http://www.bragatop.com:8080/live/008/008/15562.ts
-#EXTINF:-1,B: Discovery Channel
-http://www.bragatop.com:8080/live/008/008/15561.ts
-#EXTINF:-1,B: Discovery Channel HD
-http://www.bragatop.com:8080/live/008/008/15560.ts
-#EXTINF:-1,B: Discovery Home & Health
-http://www.bragatop.com:8080/live/008/008/15559.ts
-#EXTINF:-1,B: Discovery Home & Health HD
-http://www.bragatop.com:8080/live/008/008/15558.ts
-#EXTINF:-1,B: Discovery Kids
-http://www.bragatop.com:8080/live/008/008/15580.ts
-#EXTINF:-1,B: Discovery Theater HD
-http://www.bragatop.com:8080/live/008/008/15557.ts
-#EXTINF:-1,B: Discovery Turbo
-http://www.bragatop.com:8080/live/008/008/15556.ts
-#EXTINF:-1,B: Discovery Turbo HD
-http://www.bragatop.com:8080/live/008/008/15555.ts
-#EXTINF:-1,B: Discovery World HD
-http://www.bragatop.com:8080/live/008/008/15554.ts
-#EXTINF:-1,B: Disney Channel
-http://www.bragatop.com:8080/live/008/008/15579.ts
-#EXTINF:-1,B: Disney Junior
-http://www.bragatop.com:8080/live/008/008/15578.ts
-#EXTINF:-1,B: Disney XD
-http://www.bragatop.com:8080/live/008/008/15577.ts
-#EXTINF:-1,B: E!
-http://www.bragatop.com:8080/live/008/008/15553.ts
-#EXTINF:-1,B: ESPN
-http://www.bragatop.com:8080/live/008/008/15486.ts
-#EXTINF:-1,B: ESPN Brasil
-http://www.bragatop.com:8080/live/008/008/15485.ts
-#EXTINF:-1,B: ESPN Brasil HD
-http://www.bragatop.com:8080/live/008/008/15484.ts
-#EXTINF:-1,B: ESPN HD
-http://www.bragatop.com:8080/live/008/008/15483.ts
-#EXTINF:-1,B: Fish TV
-http://www.bragatop.com:8080/live/008/008/15482.ts
-#EXTINF:-1,B: FOX
-http://www.bragatop.com:8080/live/008/008/15529.ts
-#EXTINF:-1,B: FOX HD
-http://www.bragatop.com:8080/live/008/008/15528.ts
-#EXTINF:-1,B: FOX Life HD
-http://www.bragatop.com:8080/live/008/008/15527.ts
-#EXTINF:-1,B: FOX Premium 1 HD
-http://www.bragatop.com:8080/live/008/008/15481.ts
-#EXTINF:-1,B: FOX Premium 2 HD
-http://www.bragatop.com:8080/live/008/008/15480.ts
-#EXTINF:-1,B: Fox Sport HD
-http://www.bragatop.com:8080/live/008/008/15479.ts
-
-#EXTINF:-1,USA: ABC HD
-http://www.bragatop.com:8080/live/008/008/11968.ts
-#EXTINF:-1,USA: ABC NEWS HD
-http://www.bragatop.com:8080/live/008/008/11967.ts
-#EXTINF:-1,USA: AETV HD
-http://www.bragatop.com:8080/live/008/008/11966.ts
-#EXTINF:-1,USA: AMC HD
-http://www.bragatop.com:8080/live/008/008/11965.ts
-#EXTINF:-1,USA: BeIN Sports US HD
-http://www.bragatop.com:8080/live/008/008/11964.ts
-#EXTINF:-1,USA: BRAVO HD
-http://www.bragatop.com:8080/live/008/008/11963.ts
-#EXTINF:-1,USA: CBS HD
-http://www.bragatop.com:8080/live/008/008/11962.ts
-#EXTINF:-1,USA: CN HD
-http://www.bragatop.com:8080/live/008/008/11961.ts
-#EXTINF:-1,USA: CNBC HD
-http://www.bragatop.com:8080/live/008/008/11960.ts
-#EXTINF:-1,USA: CNN HD
-http://www.bragatop.com:8080/live/008/008/11959.ts
-#EXTINF:-1,USA: DISCOVERY HD
-http://www.bragatop.com:8080/live/008/008/11958.ts
-#EXTINF:-1,USA: DIY Network HD
-http://www.bragatop.com:8080/live/008/008/11957.ts
-#EXTINF:-1,USA: E! ENTERTAINMENT-US
-http://www.bragatop.com:8080/live/008/008/11956.ts
-#EXTINF:-1,USA: ESPN 1 HD
-http://www.bragatop.com:8080/live/008/008/11955.ts
-#EXTINF:-1,USA: ESPN HD
-http://www.bragatop.com:8080/live/008/008/11954.ts
-#EXTINF:-1,USA: FOX HD
-http://www.bragatop.com:8080/live/008/008/11953.ts
-#EXTINF:-1,USA: FOX NEWS HD
-http://www.bragatop.com:8080/live/008/008/11952.ts
-#EXTINF:-1,USA: FX HD
-http://www.bragatop.com:8080/live/008/008/11951.ts
-#EXTINF:-1,USA: LIFETIME HD
-http://www.bragatop.com:8080/live/008/008/11950.ts
-#EXTINF:-1,USA: NBC HD
-http://www.bragatop.com:8080/live/008/008/11949.ts
-#EXTINF:-1,USA: NICK HD
-http://www.bragatop.com:8080/live/008/008/11948.ts
-#EXTINF:-1,USA: PBS HD
-http://www.bragatop.com:8080/live/008/008/11947.ts
-#EXTINF:-1,USA: RT AMERICA
-http://www.bragatop.com:8080/live/008/008/11946.ts
-#EXTINF:-1,USA: Showtime Next HD
-http://www.bragatop.com:8080/live/008/008/11945.ts
-#EXTINF:-1,USA: SHOWTIME SHOWCASE
-http://www.bragatop.com:8080/live/008/008/11944.ts
-#EXTINF:-1,USA: SPIKE HD
-http://www.bragatop.com:8080/live/008/008/11943.ts
-#EXTINF:-1,USA: SYFY HD
-http://www.bragatop.com:8080/live/008/008/11942.ts
+#EXTINF:-1,HBO HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1950.ts
+#EXTINF:-1,HBO HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/176.ts
+#EXTINF:-1,Hbo
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1868.ts
+#EXTINF:-1,Hbo *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/92.ts
+#EXTINF:-1,HBO 2 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1952.ts
+#EXTINF:-1,HBO 2 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/178.ts
+#EXTINF:-1,Hbo 2
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1863.ts
+#EXTINF:-1,Hbo 2 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/87.ts
+#EXTINF:-1,HBO PLUS HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1949.ts
+#EXTINF:-1,HBO PLUS HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/175.ts
+#EXTINF:-1,Hbo Plus
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1866.ts
+#EXTINF:-1,Hbo Plus *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/90.ts
+#EXTINF:-1,Hbo Plus e
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1865.ts
+#EXTINF:-1,Hbo Plus e *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/89.ts
+#EXTINF:-1,HBO FAMILY HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1951.ts
+#EXTINF:-1,HBO FAMILY HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/177.ts
+#EXTINF:-1,Hbo Family
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1867.ts
+#EXTINF:-1,Hbo Family *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/91.ts
+#EXTINF:-1,HBO SIGNATURE HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1948.ts
+#EXTINF:-1,HBO SIGNATURE HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/174.ts
+#EXTINF:-1,Hbo Signature
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1864.ts
+#EXTINF:-1,Hbo Signature *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/88.ts
+#EXTINF:-1,MAX HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1158.ts
+#EXTINF:-1,MAX HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2031.ts
+#EXTINF:-1,Max
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1857.ts
+#EXTINF:-1,Max *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/81.ts
+#EXTINF:-1,MAX UP HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1160.ts
+#EXTINF:-1,MAX UP HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2029.ts
+#EXTINF:-1,Max UP
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1854.ts
+#EXTINF:-1,Max UP *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/78.ts
+#EXTINF:-1,MAX PRIME HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1159.ts
+#EXTINF:-1,MAX PRIME HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2030.ts
+#EXTINF:-1,Max Prime
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1856.ts
+#EXTINF:-1,Max Prime *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/80.ts
+#EXTINF:-1,Max Prime e
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1855.ts
+#EXTINF:-1,Max Prime e *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/79.ts
+#EXTINF:-1,CINEMAX HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1149.ts
+#EXTINF:-1,CINEMAX HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2040.ts
+#EXTINF:-1,Cinemax
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1899.ts
+#EXTINF:-1,Cinemax *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/123.ts
+#EXTINF:-1,FOX HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1960.ts
+#EXTINF:-1,FOX HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/186.ts
+#EXTINF:-1,Fox
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1879.ts
+#EXTINF:-1,Fox *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/103.ts
+#EXTINF:-1,FOX LIFE HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1959.ts
+#EXTINF:-1,Fox Life
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1878.ts
+#EXTINF:-1,Fox Life *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/102.ts
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1962.ts
+#EXTINF:-1,FOX PREMIUM 1 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/188.ts
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1961.ts
+#EXTINF:-1,FOX PREMIUM 2 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/187.ts
+#EXTINF:-1,FX HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1956.ts
+#EXTINF:-1,FX HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/182.ts
+#EXTINF:-1,Fx
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1874.ts
+#EXTINF:-1,Fx *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/98.ts
+#EXTINF:-1,CANAL SONY HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1975.ts
+#EXTINF:-1,CANAL SONY HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/201.ts
+#EXTINF:-1,Canal Sony
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1902.ts
+#EXTINF:-1,Canal Sony *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/126.ts
+#EXTINF:-1,AXN HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1979.ts
+#EXTINF:-1,AXN  HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/205.ts
+#EXTINF:-1,Axn
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1911.ts
+#EXTINF:-1,Axn *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/136.ts
+#EXTINF:-1,WARNER CHANNEL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1916.ts
+#EXTINF:-1,WARNER CHANNEL HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/142.ts
+#EXTINF:-1,Warner Channel
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1788.ts
+#EXTINF:-1,Warner Channel *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/10.ts
+#EXTINF:-1,SPACE HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1931.ts
+#EXTINF:-1,SPACE HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/157.ts
+#EXTINF:-1,Space
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1816.ts
+#EXTINF:-1,Space *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/40.ts
+#EXTINF:-1,TNT HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1921.ts
+#EXTINF:-1,TNT HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/147.ts
+#EXTINF:-1,TNT
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1799.ts
+#EXTINF:-1,TNT *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/21.ts
+#EXTINF:-1,TNT SÉRIES HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1920.ts
+#EXTINF:-1,TNT SÉRIES HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/146.ts
+#EXTINF:-1,TNT Séries
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1798.ts
+#EXTINF:-1,TNT Séries *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/20.ts
+#EXTINF:-1,TBS HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1927.ts
+#EXTINF:-1,TBS HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/153.ts
+#EXTINF:-1,TBS
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1810.ts
+#EXTINF:-1,TBS *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/32.ts
+#EXTINF:-1,TCM
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1809.ts
+#EXTINF:-1,I-SAT
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1862.ts
+#EXTINF:-1,I-SAT *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/86.ts
+#EXTINF:-1,MEGAPIX HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1945.ts
+#EXTINF:-1,MEGAPIX HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/171.ts
+#EXTINF:-1,Megapix
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1853.ts
+#EXTINF:-1,Megapix *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/77.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1919.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/145.ts
+#EXTINF:-1,Universal Channel
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1791.ts
+#EXTINF:-1,Universal Channel *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/13.ts
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1163.ts
+#EXTINF:-1,STUDIO UNIVERSAL HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2026.ts
+#EXTINF:-1,Studio Universal
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1812.ts
+#EXTINF:-1,Studio Universal *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/34.ts
+#EXTINF:-1,SYFY HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1164.ts
+#EXTINF:-1,SYFY HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2025.ts
+#EXTINF:-1,Syfy
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1811.ts
+#EXTINF:-1,Syfy *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/33.ts
+#EXTINF:-1,CANAL BRASIL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1148.ts
+#EXTINF:-1,CANAL BRASIL HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2042.ts
+#EXTINF:-1,Canal Brasil
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1904.ts
+#EXTINF:-1,Canal Brasil *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/128.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1940.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/166.ts
+#EXTINF:-1,Paramount Channel
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1841.ts
+#EXTINF:-1,Paramount Channel *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/65.ts
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3466.ts
+#EXTINF:-1,Prime Box Brazil
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1829.ts
+#EXTINF:-1,Prime Box Brazil *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/53.ts
+#EXTINF:-1,SUNDANCE TV HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3052.ts
+#EXTINF:-1,Sundance TV
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3051.ts
+#EXTINF:-1,AMC HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3460.ts
+#EXTINF:-1,AMC
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3058.ts
+#EXTINF:-1,SPORTV HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/154.ts
+#EXTINF:-1,SPORTV HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1928.ts
+#EXTINF:-1,Sportv
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1815.ts
+#EXTINF:-1,Sportv *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/39.ts
+#EXTINF:-1,SPORTV 2 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1930.ts
+#EXTINF:-1,SPORTV 2 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/156.ts
+#EXTINF:-1,Sportv 2
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1814.ts
+#EXTINF:-1,Sportv 2 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/38.ts
+#EXTINF:-1,SPORTV 3 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1929.ts
+#EXTINF:-1,SPORTV 3 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/155.ts
+#EXTINF:-1,Sportv 3
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1813.ts
+#EXTINF:-1,Sportv 3 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/36.ts
+#EXTINF:-1,FOX SPORTS HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1958.ts
+#EXTINF:-1,FOX SPORTS HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/184.ts
+#EXTINF:-1,Fox Sports
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1877.ts
+#EXTINF:-1,Fox Sports *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/101.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1957.ts
+#EXTINF:-1,FOX SPORTS 2 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/183.ts
+#EXTINF:-1,Fox Sports 2
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1876.ts
+#EXTINF:-1,Fox Sports 2 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/100.ts
+#EXTINF:-1,ESPN BRASIL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1965.ts
+#EXTINF:-1,ESPN BRASIL HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/191.ts
+#EXTINF:-1,Espn Brasil
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1882.ts
+#EXTINF:-1,Espn Brasil *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/106.ts
+#EXTINF:-1,ESPN HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1966.ts
+#EXTINF:-1,ESPN HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/190.ts
+#EXTINF:-1,ESPN+ HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1964.ts
+#EXTINF:-1,ESPN+ HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1168.ts
+#EXTINF:-1,ESPN+
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/192.ts
+#EXTINF:-1,ESPN + *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1883.ts
+#EXTINF:-1,Espn
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1786.ts
+#EXTINF:-1,Espn *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/107.ts
+#EXTINF:-1,ESPN EXTRA HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3054.ts
+#EXTINF:-1,ESPN Extra
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3053.ts
+#EXTINF:-1,ESPORTE INTERATIVO BR HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1968.ts
+#EXTINF:-1,ESPORTE INTERATIVO HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1963.ts
+#EXTINF:-1,ESPORTE INTERATIVO HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/193.ts
+#EXTINF:-1,Esporte Interativo
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1885.ts
+#EXTINF:-1,Esporte Interativo *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/109.ts
+#EXTINF:-1,ESPORTE INTERATIVO 2 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1967.ts
+#EXTINF:-1,ESPORTE INTERATIVO 2 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/194.ts
+#EXTINF:-1,Esporte Interativo 2
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1884.ts
+#EXTINF:-1,Esporte Interativo 2 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/108.ts
+#EXTINF:-1,BAND SPORTS  HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1977.ts
+#EXTINF:-1,BAND SPORTS HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/203.ts
+#EXTINF:-1,Band Sports
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1909.ts
+#EXTINF:-1,Band Sports*
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/133.ts
+#EXTINF:-1,Fish TV
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1881.ts
+#EXTINF:-1,Fish TV *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/105.ts
+#EXTINF:-1,Combate HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1974.ts
+#EXTINF:-1,Combate HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/200.ts
+#EXTINF:-1,Combate
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1898.ts
+#EXTINF:-1,Combate *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/122.ts
+#EXTINF:-1,Premiere Clubes 24H HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3108.ts
+#EXTINF:-1,Premiere Clubes  24H HD*
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1428.ts
+#EXTINF:-1,Premiere Clubes *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/54.ts
+#EXTINF:-1,Premiere Clubes
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1830.ts
+#EXTINF:-1,PREMIERE 2 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1938.ts
+#EXTINF:-1,PREMIERE 2 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/164.ts
+#EXTINF:-1,Premiere 2
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1838.ts
+#EXTINF:-1,Premiere 2 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/62.ts
+#EXTINF:-1,PREMIERE 3 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1937.ts
+#EXTINF:-1,PREMIERE 3 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/163.ts
+#EXTINF:-1,Premiere 3
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1837.ts
+#EXTINF:-1,Premiere 3 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/61.ts
+#EXTINF:-1,PREMIERE 4 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1936.ts
+#EXTINF:-1,PREMIERE 4 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/162.ts
+#EXTINF:-1,Premiere 4
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1836.ts
+#EXTINF:-1,Premiere 4 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/60.ts
+#EXTINF:-1,PREMIERE 5 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1935.ts
+#EXTINF:-1,PREMIERE 5 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/161.ts
+#EXTINF:-1,Premiere 5
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1835.ts
+#EXTINF:-1,Premiere 5 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/59.ts
+#EXTINF:-1,PREMIERE 6 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3286.ts
+#EXTINF:-1,Premiere 6
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1834.ts
+#EXTINF:-1,Premiere 6 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/58.ts
+#EXTINF:-1,PREMIERE 7 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3287.ts
+#EXTINF:-1,Premiere 7
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1833.ts
+#EXTINF:-1,Premiere 7 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/57.ts
+#EXTINF:-1,Premiere 8 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/56.ts
+#EXTINF:-1,Premiere 9 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/55.ts
+#EXTINF:-1,A&E HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1147.ts
+#EXTINF:-1,A&E HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2043.ts
+#EXTINF:-1,A&E
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1915.ts
+#EXTINF:-1,A&E *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/140.ts
+#EXTINF:-1,+ GLOBOSAT HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1157.ts
+#EXTINF:-1,+ GLOBOSAT HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2032.ts
+#EXTINF:-1,+ Globosat
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1858.ts
+#EXTINF:-1,+ Globosat *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/82.ts
+#EXTINF:-1,GNT HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1954.ts
+#EXTINF:-1,GNT HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/180.ts
+#EXTINF:-1,Gnt
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1870.ts
+#EXTINF:-1,Gnt*
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3339.ts
+#EXTINF:-1,VIVA HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1918.ts
+#EXTINF:-1,VIVA HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/144.ts
+#EXTINF:-1,Viva
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1789.ts
+#EXTINF:-1,Viva *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/11.ts
+#EXTINF:-1,OFF HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1941.ts
+#EXTINF:-1,OFF HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/167.ts
+#EXTINF:-1,OFF
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1842.ts
+#EXTINF:-1,OFF *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/66.ts
+#EXTINF:-1,WOOHOO HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3281.ts
+#EXTINF:-1,Woohoo
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1787.ts
+#EXTINF:-1,MULTISHOW HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1944.ts
+#EXTINF:-1,MULTISHOW HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/170.ts
+#EXTINF:-1,Multishow
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1851.ts
+#EXTINF:-1,Multishow *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/75.ts
+#EXTINF:-1,BIS HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1976.ts
+#EXTINF:-1,BIS HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/202.ts
+#EXTINF:-1,Bis
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1906.ts
+#EXTINF:-1,Bis *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/130.ts
+#EXTINF:-1,MTV HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1161.ts
+#EXTINF:-1,MTV HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2028.ts
+#EXTINF:-1,MTV
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1852.ts
+#EXTINF:-1,MTV *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/76.ts
+#EXTINF:-1,VH1 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1167.ts
+#EXTINF:-1,VH1 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2022.ts
+#EXTINF:-1,VH1
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3467.ts
+#EXTINF:-1,VH1 Megahits
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1790.ts
+#EXTINF:-1,VH1 Megahits *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/12.ts
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3462.ts
+#EXTINF:-1,Music Box Brazil
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1850.ts
+#EXTINF:-1,Music Box Brazil *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/74.ts
+#EXTINF:-1,TruTV
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1796.ts
+#EXTINF:-1,Comedy Central
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1897.ts
+#EXTINF:-1,Comedy Central *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/121.ts
+#EXTINF:-1,ID - INVESTIGAÇAO DISCOVERY HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1946.ts
+#EXTINF:-1,ID - INVESTIGAÇAO DISCOVERY HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/172.ts
+#EXTINF:-1,ID - Investigação Discovery
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1861.ts
+#EXTINF:-1,ID - Investigação Discovery *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/85.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1972.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/198.ts
+#EXTINF:-1,Discovery Home & Health
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1893.ts
+#EXTINF:-1,Discovery Home & Health *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/117.ts
+#EXTINF:-1,LIFETIME HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1156.ts
+#EXTINF:-1,LIFETIME HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2033.ts
+#EXTINF:-1,Lifetime
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1859.ts
+#EXTINF:-1,Lifetime *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/83.ts
+#EXTINF:-1,TLC HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1166.ts
+#EXTINF:-1,TLC HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2023.ts
+#EXTINF:-1,TLC
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1800.ts
+#EXTINF:-1,TLC *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/22.ts
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1152.ts
+#EXTINF:-1,E! ENTERTAINMENT HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2037.ts
+#EXTINF:-1,E! Entertainment
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1886.ts
+#EXTINF:-1,FOOD NETWORK HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1153.ts
+#EXTINF:-1,Food Network
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1880.ts
+#EXTINF:-1,Food Network *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/104.ts
+#EXTINF:-1,CURTA! HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3282.ts
+#EXTINF:-1,Curta!
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1896.ts
+#EXTINF:-1,Curta! *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/120.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1980.ts
+#EXTINF:-1,ANIMAL PLANET  HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/206.ts
+#EXTINF:-1,Animal Planet
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1914.ts
+#EXTINF:-1,Animal Planet *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/139.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1973.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/199.ts
+#EXTINF:-1,Discovery Channel
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1895.ts
+#EXTINF:-1,Discovery Channel *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/119.ts
+#EXTINF:-1,DISCOVERY THEATER HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1971.ts
+#EXTINF:-1,DISCOVERY THEATER HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/197.ts
+#EXTINF:-1,DISCOVERY WORLD HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1969.ts
+#EXTINF:-1,DISCOVERY WORLD HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/195.ts
+#EXTINF:-1,Discovery World
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3338.ts
+#EXTINF:-1,DISCOVERY SCIENCE  HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3283.ts
+#EXTINF:-1,Discovery Science
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1891.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3285.ts
+#EXTINF:-1,Discovery Civilization
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1894.ts
+#EXTINF:-1,Discovery Civilization *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/118.ts
+#EXTINF:-1,DISCOVERY TURBO HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1970.ts
+#EXTINF:-1,DISCOVERY TURBO HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/196.ts
+#EXTINF:-1,Discovery Turbo
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1890.ts
+#EXTINF:-1,Discovery Turbo *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/114.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1942.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/168.ts
+#EXTINF:-1,National Geographic
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1848.ts
+#EXTINF:-1,National Geographic *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/72.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1943.ts
+#EXTINF:-1,NAT GEO WILD HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/169.ts
+#EXTINF:-1,Nat Geo Wild
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1849.ts
+#EXTINF:-1,Nat Geo Wild *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/73.ts
+#EXTINF:-1,HISTORY CHANNEL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1947.ts
+#EXTINF:-1,HISTORY CHANNEL HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/173.ts
+#EXTINF:-1,History Channel
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1801.ts
+#EXTINF:-1,H2 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1953.ts
+#EXTINF:-1,H2 HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/179.ts
+#EXTINF:-1,H2
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1869.ts
+#EXTINF:-1,H2 *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1529.ts
+#EXTINF:-1,ARTE 1 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3280.ts
+#EXTINF:-1,Arte1
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1912.ts
+#EXTINF:-1,GLOBO NEWS HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1154.ts
+#EXTINF:-1,GLOBO NEWS HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2035.ts
+#EXTINF:-1,Globo News
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1872.ts
+#EXTINF:-1,Globo News *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/96.ts
+#EXTINF:-1,BAND NEWS HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3334.ts
+#EXTINF:-1,Band News
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1910.ts
+#EXTINF:-1,Band News *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/134.ts
+#EXTINF:-1,RECORD NEWS HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3092.ts
+#EXTINF:-1,Record News
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1826.ts
+#EXTINF:-1,Record News *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/50.ts
+#EXTINF:-1,NBR
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1847.ts
+#EXTINF:-1,NBR *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/71.ts
+#EXTINF:-1,NHK
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1846.ts
+#EXTINF:-1,TV Camara
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2047.ts
+#EXTINF:-1,SHOW DA LUNA 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3645.ts
+#EXTINF:-1,FAMÍLIA DINOSSAURO 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3509.ts
+#EXTINF:-1,TURMA DA MÔNICA 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3483.ts
+#EXTINF:-1,TV GAZETA SP HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/662.ts
+#EXTINF:-1,POKEMON 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3275.ts
+#EXTINF:-1,CAVERNA DO DRAGÃO  24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3088.ts
+#EXTINF:-1,PEPPA PIG 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2046.ts
+#EXTINF:-1,DUCKTALES  24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3268.ts
+#EXTINF:-1,OS SIMPSONS 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2832.ts
+#EXTINF:-1,BOB ESPONJA 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3270.ts
+#EXTINF:-1,DRAGON BALL Z androides 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3276.ts
+#EXTINF:-1,DRAGON BALL Z Freeza 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3086.ts
+#EXTINF:-1,OS VINGADORES 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3273.ts
+#EXTINF:-1,HOMEM-ARANHA 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3272.ts
+#EXTINF:-1,X-MEN EVOLUTION 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3274.ts
+#EXTINF:-1,TODO MUNDO ODEIA O CRIS 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3271.ts
+#EXTINF:-1,GALINHA PINTADINHA 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3085.ts
+#EXTINF:-1,CDZ Saga de Asgard 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3330.ts
+#EXTINF:-1,CDZ Saga de Hades 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3332.ts
+#EXTINF:-1,CDZ  Saga de Poseidon 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3331.ts
+#EXTINF:-1,CDZ Saga do Santuario  24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3328.ts
+#EXTINF:-1,CDZ Saga das Doze Casas 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3329.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3336.ts
+#EXTINF:-1,DRAGON BALL Z Cell 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3327.ts
+#EXTINF:-1,DRAGON BALL  SUPER 1 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3325.ts
+#EXTINF:-1,DRAGON BALL  SUPER 2 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3326.ts
+#EXTINF:-1,DRAGON BALL Z Sayajins 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3323.ts
+#EXTINF:-1,LARVA 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3320.ts
+#EXTINF:-1,LOONEY TUNES 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3319.ts
+#EXTINF:-1,NARUTO 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3322.ts
+#EXTINF:-1,THE BACKYARDIGANS 24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3333.ts
+#EXTINF:-1,TOM & JERRY  24H
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3324.ts
+#EXTINF:-1,BOOMERANG HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3461.ts
+#EXTINF:-1,Boomerang
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1905.ts
+#EXTINF:-1,Boomerang *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/129.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/141.ts
+#EXTINF:-1,CARTOON NETWORK HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2041.ts
+#EXTINF:-1,Cartoon Network
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1900.ts
+#EXTINF:-1,Cartoon Network *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/124.ts
+#EXTINF:-1,Tooncast
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1797.ts
+#EXTINF:-1,Tooncast *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/19.ts
+#EXTINF:-1,NICK HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1162.ts
+#EXTINF:-1,NICK HD*
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3464.ts
+#EXTINF:-1,Nick
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1844.ts
+#EXTINF:-1,Nick *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/68.ts
+#EXTINF:-1,NICK JR HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3463.ts
+#EXTINF:-1,Nick Jr
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1845.ts
+#EXTINF:-1,Nick Jr *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/69.ts
+#EXTINF:-1,Disney XD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1887.ts
+#EXTINF:-1,Disney XD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/111.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1151.ts
+#EXTINF:-1,Disney Channel
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1889.ts
+#EXTINF:-1,Disney channel*
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3337.ts
+#EXTINF:-1,DISNEY CHANNEL+ HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2038.ts
+#EXTINF:-1,Disney Junior
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1888.ts
+#EXTINF:-1,Disney Junior *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/112.ts
+#EXTINF:-1,DISCOVERY KIDS HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1150.ts
+#EXTINF:-1,DISCOVERY KIDS HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2039.ts
+#EXTINF:-1,Discovery Kids
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1892.ts
+#EXTINF:-1,GLOOB HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1155.ts
+#EXTINF:-1,GLOOB HD *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2034.ts
+#EXTINF:-1,Gloob
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1871.ts
+#EXTINF:-1,Gloob *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/95.ts
+#EXTINF:-1,GLOOBINHO HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3091.ts
+#EXTINF:-1,Gloobinho
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3090.ts
+#EXTINF:-1,Play TV
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1840.ts
+#EXTINF:-1,Play TV *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/64.ts
+#EXTINF:-1,TV RA TIM BUM HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3465.ts
+#EXTINF:-1,TV Ra tim bum
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1793.ts
+#EXTINF:-1,TV Ra tim bum *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/15.ts
+#EXTINF:-1,NAT GEO  KIDS HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3050.ts
+#EXTINF:-1,Nat Geo KIDS
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3049.ts
+#EXTINF:-1,Baby TV Brasil
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3055.ts
+#EXTINF:-1,Canção Nova
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1901.ts
+#EXTINF:-1,Rede Vida
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1822.ts
+#EXTINF:-1,Rede Vida *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/46.ts
+#EXTINF:-1,Aparecida
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1913.ts
+#EXTINF:-1,Aparecida *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/138.ts
+#EXTINF:-1,RIT
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1821.ts
+#EXTINF:-1,Novo Tempo
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1843.ts
+#EXTINF:-1,Sic Internacional
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1817.ts
+#EXTINF:-1,RBI
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1828.ts
+#EXTINF:-1,Ideal TV
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1860.ts
+#EXTINF:-1,Ideal TV *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/84.ts
+#EXTINF:-1,TVE
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/1792.ts
+#EXTINF:-1,TVE *
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/14.ts
+#EXTINF:-1,TVE Bahia
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/956.ts
+#EXTINF:-1,Rede Super
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/998.ts
+#EXTINF:-1,REDE SÉCULO 21 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/3216.ts
+#EXTINF:-1,PT: BABY TV
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2135.ts
+#EXTINF:-1,USA : FXX
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2235.ts
+#EXTINF:-1,USA : Fox HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2224.ts
+#EXTINF:-1,USA: CINEMAX ACTION HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2327.ts
 #EXTINF:-1,USA: TBS HD
-http://www.bragatop.com:8080/live/008/008/11941.ts
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2343.ts
+#EXTINF:-1,USA | A&E HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2264.ts
+#EXTINF:-1,USA TNT HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2263.ts
+#EXTINF:-1,USA SYFY HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2262.ts
+#EXTINF:-1,USA : HBO Comedy
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2236.ts
+#EXTINF:-1,USA : HBO HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2238.ts
+#EXTINF:-1,USA : HBO Signature
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2239.ts
+#EXTINF:-1,USA : HBO Zone
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2240.ts
+#EXTINF:-1,USA : AMC HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2227.ts
+#EXTINF:-1,USA: Offical Olympic Channel
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2340.ts
+#EXTINF:-1,USA | NFL Network HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2270.ts
+#EXTINF:-1,USA: NFL Network 1
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2321.ts
+#EXTINF:-1,USA: NHL Network
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2339.ts
+#EXTINF:-1,USA : NFL Network 1080i
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2226.ts
+#EXTINF:-1,USA : NFL REDZONE SD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2225.ts
+#EXTINF:-1,USA | NBCSN HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2269.ts
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 1 UHD (16/17SEASON)
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2335.ts
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 2 UHD (16/17SEASON)
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2336.ts
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 3 UHD (16/17SEASON)
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2337.ts
+#EXTINF:-1,USA: NBCSN MATCH TIME LIVE 4 UHD (16/17SEASON)
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2338.ts
+#EXTINF:-1,USA: MLB Network
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2333.ts
+#EXTINF:-1,USA: MBL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2332.ts
+#EXTINF:-1,USA: Fox SPORTS 506 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2331.ts
+#EXTINF:-1,USA: FOX 43
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2330.ts
+#EXTINF:-1,USA ESPN HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2257.ts
+#EXTINF:-1,USA | ESPN
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2266.ts
+#EXTINF:-1,USA: ESPN 2
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2329.ts
+#EXTINF:-1,USA: ESPN News US HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2285.ts
+#EXTINF:-1,USA: FUEL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2311.ts
+#EXTINF:-1,USA | WWE HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2279.ts
+#EXTINF:-1,USA | Poker Central
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2276.ts
+#EXTINF:-1,USA | Fox Sports 1 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2267.ts
+#EXTINF:-1,USA | Fox Sports 2 HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2268.ts
+#EXTINF:-1,USA : Tennis Channel HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2250.ts
+#EXTINF:-1,USA: NBA TV HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2242.ts
+#EXTINF:-1,USA: NBA SD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2241.ts
+#EXTINF:-1,USA : Fight HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2234.ts
+#EXTINF:-1,USA: FIGHT SPORT
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2350.ts
+#EXTINF:-1,USA NBC Golf
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2261.ts
+#EXTINF:-1,USA CW HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2256.ts
+#EXTINF:-1,USA: Fine Living
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2312.ts
+#EXTINF:-1,USA: HGTV HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2310.ts
+#EXTINF:-1,USA: MTV Rocks
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2309.ts
+#EXTINF:-1,USA: VH1 Classic
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2306.ts
+#EXTINF:-1,USA | TLC HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2277.ts
+#EXTINF:-1,USA | Amazing Discoveries HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2265.ts
+#EXTINF:-1,USA Investigation Discovery
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2260.ts
+#EXTINF:-1,USA COMEDY CENTRAL HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2255.ts
+#EXTINF:-1,USA BRAVO HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2253.ts
+#EXTINF:-1,USA: ANIMAL PLANET HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2323.ts
+#EXTINF:-1,USA: Discovery HD Showcase
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2314.ts
+#EXTINF:-1,USA HISTORY HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2259.ts
+#EXTINF:-1,USA : DISCCOVERY HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2232.ts
+#EXTINF:-1,USA: MSNBC HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2334.ts
+#EXTINF:-1,USA: CNN HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2328.ts
+#EXTINF:-1,USA: CNN US HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2286.ts
+#EXTINF:-1,USA: Bloomberg Europe
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2320.ts
+#EXTINF:-1,USA: BNN
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2319.ts
+#EXTINF:-1,USA: NBC
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2305.ts
+#EXTINF:-1,USA FOX NEWS HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2258.ts
+#EXTINF:-1,USA : CBSN HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2230.ts
+#EXTINF:-1,USA CBS
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2254.ts
+#EXTINF:-1,USA ABC NEWS HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2252.ts
+#EXTINF:-1,USA : DW
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2233.ts
+#EXTINF:-1,USA : CNBC
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2231.ts
+#EXTINF:-1,USA: NICKELODEN HD
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2322.ts
+#EXTINF:-1,USA: Boomerang
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2318.ts
+#EXTINF:-1,USA : CARTOON NETWORK
+http://direct.dyndns.ws:25461/live/Hugo/Hugo/2229.ts
